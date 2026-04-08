@@ -1,0 +1,5 @@
+{
+  "name": "Party Vibe Generator",
+  "description": "Get unique party theme recommendations by drawing three random keywords, powered by Gemini AI.",
+  "requestFramePermissions": []
+}
