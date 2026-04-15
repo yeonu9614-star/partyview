@@ -1,5 +1,5 @@
 {
-  "name": "Party Vibe Generator",
-  "description": "Get unique party theme recommendations by drawing three random keywords, powered by Gemini AI.",
+  "name": "파티 바이브 생성기",
+  "description": "세 가지 랜덤 키워드를 뽑아 Gemini AI가 추천하는 독특한 파티 테마를 확인해보세요.",
   "requestFramePermissions": []
 }
